@@ -1,0 +1,41 @@
+JOY'S SHOES DIARY 
+
+Project Description
+
+JOY'S SHOE DIARY is an online shoe shopping platform designed to allow customers to explore different shoe categories, search for products, select shoe sizes, and manage their shopping carts.
+
+Main Features
+
+- Display of shoe products
+- Product search
+- Category filtering
+- Shoe size selection
+- Add to cart
+- Quantity management
+- Shopping cart persistence
+- Customer checkout form
+- Firebase integration
+
+Technologies Used
+
+- HTML5
+- CSS3
+- JavaScript
+- Firebase
+- Git and GitHub
+
+Installation and Usage
+
+1. Clone or download this repository.
+2. Open the project folder in Visual Studio Code.
+3. Open "index.html" using Live Server.
+4. Browse the available shoes and test the shopping cart.
+
+Project Name
+
+JOY'S SHOES
+DIARY
+
+Project Status
+
+Under Development.
